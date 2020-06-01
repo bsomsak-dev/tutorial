@@ -22,3 +22,7 @@ pycharm config
 - parameters: runserver
 - apply & save
 - click green play button to run local server
+
+admin
+> python manage.py createsuperuser
+> admin, admin
