@@ -7,3 +7,10 @@ pip freeze
 > djangorestframework==3.11.0
 > pytz==2020.1
 > sqlparse==0.3.1
+
+
+run command
+> on pycharm project terminal
+> python -m venv venv
+> for windows: venv\Scripts\activate, for linux and macos: Source venv/bin/activate
+> pip install django
