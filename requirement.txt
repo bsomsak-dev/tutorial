@@ -15,6 +15,7 @@ run command
 > for windows: venv\Scripts\activate, for linux and macos: Source venv/bin/activate
 > pip install django
 > pip install Pillow
+> pip install djangorestframework
 
 pycharm config
 - add previous venv to pycharm project interpreter
