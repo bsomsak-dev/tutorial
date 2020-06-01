@@ -16,7 +16,7 @@ run command
 > pip install django
 
 pycharm config
-- add previous venv to pycharm interpreter
+- add previous venv to pycharm project interpreter
 - right click on manage.py -> Run
 - on manage drop down option (right corner) -> edit configurations
 - parameters: runserver
