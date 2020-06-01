@@ -14,3 +14,11 @@ run command
 > python -m venv venv
 > for windows: venv\Scripts\activate, for linux and macos: Source venv/bin/activate
 > pip install django
+
+pycharm config
+- add previous venv to pycharm interpreter
+- right click on manage.py -> Run
+- on manage drop down option (right corner) -> edit configurations
+- parameters: runserver
+- apply & save
+- click green play button to run local server
